@@ -44,3 +44,23 @@ Also did more work on the frame:
 ![Frame CAD 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2918d6416f5398e8eceff8c1f5d976933e912e31_image.png)
 
 **Total time spent: 2h**
+
+# June 14th pt2: Middle and top part
+
+Remade the middle sketch because i used the wrong origin and it was off by about 0.01mm D:
+
+Started working on the top part mounts.
+
+Needed standoffs and switched to the camera version with actual mount spots D:
+
+* Standoffs: 2.8$ - [20 mm Aluminum standoffs](https://pt.aliexpress.com/item/1005007945167923.html)
+* Camera: 18$ - [CADDXFPV Ant Analog Camera](https://caddxfpv.com/products/caddx-ant-analog-camera?variant=32810079682659)
+
+Total: 159,3$
+
+Also made the near final version of the main body and made a WIP top part.
+
+![3D + standoffs](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5f502a8d05daaa797ed12a82fc53997cae4d3b45_image.png)
+![Top down with top part](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e6c3fb94d2e8971ae5db10ac1489111ca909f2d5_image.png)
+
+**Total time spent: 5-6h**
