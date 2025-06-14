@@ -42,3 +42,5 @@ Total: 154,5$
 
 Also did more work on the frame:
 ![Frame CAD 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2918d6416f5398e8eceff8c1f5d976933e912e31_image.png)
+
+**Total time spent: 2h**
