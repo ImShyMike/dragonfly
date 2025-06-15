@@ -20,7 +20,7 @@ This took way to much searching around but i think i've decided on the parts to 
 * Stack: 60$ - [SpeedyBee F405 Mini BLS 35A 20x20 Stack](https://www.speedybee.com/speedybee-f405-mini-bls-35a-20x20-stack)
 * ~~VTX + Camera: 31.3$ - [Eachine TX06 700TVL](https://www.eachine.com/Eachine-TX06-700TVL-FOV-130-Degree-5_8Ghz-40CH-Smart-Audio-Mini-FPV-Camera-AIO-Transmitter-For-RC-Dr-p-1418.html)~~
 * ~~VTX Antenna: 15.94$ -[Speedy Bee 5.8 GHz Antenna V2](https://www.speedybee.com/speedy-bee-5-8-ghz-antenna-v2)~~
-* Motors: 26.5$ - [Sparkhobby 1507 2700KV Brushles Motor](https://pt.aliexpress.com/item/1005004705279900.html)
+* Motors: 26.5$ - [Sparkhobby 1507 2700KV Brushless Motor](https://pt.aliexpress.com/item/1005004705279900.html)
 * ELRS Receiver: 10$ - [ELRS Nano Receiver](https://betafpv.com/products/elrs-nano-receiver?variant=39416095408262)
 * Props: 8$ [Gemfan 3525](https://pt.aliexpress.com/item/1005008848979300.html)
 
@@ -64,3 +64,23 @@ Also made the near final version of the main body and made a WIP top part.
 ![Top down with top part](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e6c3fb94d2e8971ae5db10ac1489111ca909f2d5_image.png)
 
 **Total time spent: 5-6h**
+
+# June 14th pt3: 3D model + finished top
+
+Finished the top by adding all of the standoff and velcro holes.
+
+Found some placeholder models for the camera and motors + props.
+
+![Full preview](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9fc8186d84a3f0c781fe96a642a2f580b348be2d_image.png)
+
+Also thinking about a lolipop antenna:
+
+* VTX Antena: 5$ - [Mini RHCP 5,8G Lollipop 4 antenna (Purple UFL Upgrade)](https://es.aliexpress.com/item/1005001305298735.html)
+
+Total: 159,3$ - 164,3$
+
+Added some space for the VTX antenna:
+
+![VTX antenna space](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e8ba2fdc1a6fd2337bf9718c5a9889258524ddde_image.png)
+
+**Total time spent: 2h**
