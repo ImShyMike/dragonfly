@@ -84,3 +84,20 @@ Added some space for the VTX antenna:
 ![VTX antenna space](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e8ba2fdc1a6fd2337bf9718c5a9889258524ddde_image.png)
 
 **Total time spent: 2h**
+
+# June 15th: Finishing touches
+
+Random list of stuff I might/will need so i don't forget it:
+
+* Heat‑shrink
+* 4S Battery pack
+* Battery strap
+* Threadlocker
+* Buzzer
+* Zip-ties
+
+Made some TPU softmounts and corners and added some space at the front for the camera. Also smoothed out some rought corners and edges.
+
+![TPU softmounts + corners and front and rounded corners](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6c172f78364f25885eea8760604e58945fee0a5a_image.png)
+
+**Total time spent: 2-3h**
