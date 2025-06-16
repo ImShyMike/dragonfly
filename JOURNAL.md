@@ -1,7 +1,7 @@
 ---
 title: "dragonfly"
 author: "ShyMike"
-description: "A tiny FPV drone"
+description: "Tiny 3.5" FPV drone "
 created_at: "2025-06-13"
 ---
 
