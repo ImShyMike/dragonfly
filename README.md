@@ -1,6 +1,19 @@
 # dragonfly
 
-Tiny 3.5" FPV drone for highway
+A tiny 3.5" FPV drone for [highway](https://highway.hackclub.com) with a fully custom frame.
+
+I've seen many FPV videos and always thought that it was really cool. Only issue is that I only own a small toy drone without a camera.
+
+When highway released I thought it would be a great oportunity to learn what goes into designing your own FPV drone. After alot of research I managed to make a decent looking frame and find parts that could keep the cost reasonably low.
+
+---
+
+## Render
+
+![Model render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de08dbe34117856184110152a7dfc07a122a285a_dragonfly_v35.png)
+<sub>The model with sample props, motors and camera (along with a 15cm ruler for scale).</sub>
+
+---
 
 ## BOM
 
