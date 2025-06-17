@@ -13,5 +13,5 @@ Tiny 3.5" FPV drone for highway
 | BETAFPV ELRS Nano Receiver               |  1  |       12.14 | [https://pt.aliexpress.com/item/1005007437882037.html](https://pt.aliexpress.com/item/1005007437882037.html)                           |
 | YSIDO 1505 2650KV Brushless Motor        |  4  |       30.60 | [https://pt.aliexpress.com/item/1005007544080274.html](https://pt.aliexpress.com/item/1005007544080274.html)                           |
 | HGLRC Zeus Nano VTX                      |  1  |       24.00 | [https://pt.aliexpress.com/item/1005008043478143.html](https://pt.aliexpress.com/item/1005008043478143.html)                           |
-| Mini RHCP 5.8 GHz Lollipop Antenna (UFL) |  1  |        5.64 | [https://pt.aliexpress.com/item/4001365632031.html](https://pt.aliexpress.com/item/4001365632031.html)                           |
+| Mini RHCP 5.8 GHz Lollipop Antenna (UFL) |  1  |        5.64 | [https://pt.aliexpress.com/item/4001365632031.html](https://pt.aliexpress.com/item/4001365632031.html)                                 |
 | **Total**                                |     |  **170.48** |                                                                                                                                        |

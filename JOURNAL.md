@@ -11,6 +11,8 @@ Started reading through [Drone Nodes's how to build a drone](https://dronenodes.
 
 **Total time spent: 2h**
 
+---
+
 # June 13th pt2: Picked the main specifications (start of the frame)
 
 This took way to much searching around but i think i've decided on the parts to use. (may be tweaked slightly)
@@ -27,9 +29,12 @@ This took way to much searching around but i think i've decided on the parts to 
 Total: 151.74$
 
 Also made the overall CAD layout for the frame :D
+
 ![Frame CAD](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5b2626ecb779dc0d99ee2c1be186579d402ae7a0_image.png)
 
 **Total time spent: 6h**
+
+---
 
 # June 14th: Alot more CAD, repicked some stuff
 
@@ -41,9 +46,12 @@ After researching more turns out the other part wouldn't work so I picked someth
 Total: 154,5$
 
 Also did more work on the frame:
+
 ![Frame CAD 2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2918d6416f5398e8eceff8c1f5d976933e912e31_image.png)
 
 **Total time spent: 2h**
+
+---
 
 # June 14th pt2: Middle and top part
 
@@ -65,6 +73,8 @@ Also made the near final version of the main body and made a WIP top part.
 
 **Total time spent: 5-6h**
 
+---
+
 # June 14th pt3: 3D model + finished top
 
 Finished the top by adding all of the standoff and velcro holes.
@@ -85,6 +95,8 @@ Added some space for the VTX antenna:
 
 **Total time spent: 2h**
 
+---
+
 # June 15th: Finishing touches
 
 Random list of stuff I might/will need so i don't forget it:
@@ -102,7 +114,9 @@ Made some TPU softmounts and corners and added some space at the front for the c
 
 **Total time spent: 2-3h**
 
-# June 17th: Changed some stuff again
+---
+
+# June 16th: Changed some stuff again
 
 Found a cheaper and better VTX for the quad (along with a bunch of better parts for slightly more)
 
@@ -113,3 +127,23 @@ Found a cheaper and better VTX for the quad (along with a bunch of better parts 
 * VTX Antenna: 5.64$ - [Mini RHCP 5,8G Lollipop 4 antenna (Purple UFL Upgrade)](https://pt.aliexpress.com/item/4001365632031.html) (wrong website)
 
 Total: 170.48$
+
+**Total time spent: 2h**
+
+---
+
+# June 17th: Checking fabrication prices
+
+> TIFO carbon fiber CNC is **_REALLY EXPENSIVE_** and would be over 50% of all other parts combined.
+
+Checked the prices on PCBWay for carbon fiber and polycarbonate and I'm now waiting for the order review to know the actual price.
+
+![PCBWay order review](https://hc-cdn.hel1.your-objectstorage.com/s/v3/68630d41dd0fd13aa2924c8cac2d3051c2d52230_image.png)
+
+This is how the rendered version of the drone frame is looking now:
+
+![Rendered drone](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de08dbe34117856184110152a7dfc07a122a285a_dragonfly_v35.png)
+
+(also spent way too long trying to export as a DXF from Fusion 360 but that requires a subcription so i had to do it using FreeCAD just to then realise that PCBWay uses step files, not DXF)
+
+**Total time spent: 2h**
