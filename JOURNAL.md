@@ -1,8 +1,12 @@
 ---
 title: "dragonfly"
 author: "ShyMike"
-description: "Tiny 3.5" FPV drone "
+description: "Tiny 3.5" FPV drone with a fully custom frame"
 created_at: "2025-06-13"
+---
+
+## Total time: PLACEHOLDER
+
 ---
 
 # June 13th: Started researching
