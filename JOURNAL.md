@@ -151,3 +151,19 @@ This is how the rendered version of the drone frame is looking now:
 (also spent way too long trying to export as a DXF from Fusion 360 but that requires a subcription so i had to do it using FreeCAD just to then realise that PCBWay uses step files, not DXF)
 
 **Total time spent: 2h**
+
+---
+
+# June 18th: Sh!t, it's expensive
+
+Just got the quotes and turns out getting it machined/3D printed won't be possible sadly :pensive-wobble: its wayyy outside of the 150$ budget :(
+
+![ITS EXPENSIVE :whyyy:](https://hc-cdn.hel1.your-objectstorage.com/s/v3/91fc844e2cd5cd00e3af666291fe1463f8f248e6_image.png)
+
+Will most likely have to try to get the frame/softmounts/corners from printing legion (as i don't own a 3D printer)
+
+**TODO**: get the BOM under 150$ to fit in the 6 point middle tier (current BOM: 170.48$)
+
+<sub>The current setup would need me to get the battery, battery straps and heatshrink myself, will see what i can do</sub>
+
+**Total time spent: 1h**
