@@ -5,7 +5,7 @@ description: "Tiny 3.5" FPV drone with a fully custom frame"
 created_at: "2025-06-13"
 ---
 
-## Total time: PLACEHOLDER
+## Total time: 28h
 
 ---
 
@@ -167,3 +167,18 @@ Will most likely have to try to get the frame/softmounts/corners from printing l
 <sub>The current setup would need me to get the battery, battery straps and heatshrink myself, will see what i can do</sub>
 
 **Total time spent: 1h**
+
+---
+
+# June 20th: The end (maybe)
+
+> IT'S UNDER 150$!!!
+
+Rechecked the price on everything and changed the camera back to the old one (much worse low ligth performance but the only way to fit the budget) and it's now under 150$ :yay: (excluding the frame :sob:)
+
+* Props: 3.31$ - [2 Pairs HQProp 3525](https://pt.aliexpress.com/item/1005008744409414.html)
+* Camera: 13.98$ - [CADDXFPV Baby Ratel2 Analog Camera](https://pt.aliexpress.com/item/1005006086694992.html)
+
+Also double checked all the parts and they are currently have free shipping :p
+
+**Total time spent: 2h**
