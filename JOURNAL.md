@@ -179,6 +179,6 @@ Rechecked the price on everything and changed the camera back to the old one (mu
 * Props: 3.31$ - [2 Pairs HQProp 3525](https://pt.aliexpress.com/item/1005008744409414.html)
 * Camera: 13.98$ - [CADDXFPV Baby Ratel2 Analog Camera](https://pt.aliexpress.com/item/1005006086694992.html)
 
-Also double checked all the parts and they are currently have free shipping :p
+Also double checked all the parts and they all currently have free shipping :p
 
 **Total time spent: 2h**
