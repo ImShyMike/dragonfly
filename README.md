@@ -29,3 +29,4 @@ When highway released I thought it would be a great oportunity to learn what goe
 | HGLRC Zeus Nano VTX                      |  1  |       22.96 | [https://pt.aliexpress.com/item/1005008043478143.html](https://pt.aliexpress.com/item/1005008043478143.html)                           |
 | Mini RHCP 5.8 GHz Lollipop Antenna (UFL) |  1  |        5.34 | [https://pt.aliexpress.com/item/4001365632031.html](https://pt.aliexpress.com/item/4001365632031.html)                                 |
 | **Total**                                |     |  **148.03** |                                                                                                                                        |
+The BOM does not account for the frame and battery as I couldn't get that under 150$ D:
