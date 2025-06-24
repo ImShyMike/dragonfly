@@ -182,3 +182,30 @@ Rechecked the price on everything and changed the camera back to the old one (mu
 Also double checked all the parts and they all currently have free shipping :p
 
 **Total time spent: 2h**
+
+---
+
+# June 23th: ELRS receiver
+
+> :sob:
+
+Did not get aproved, ELRS receiver making moment (~~i love RF~~)
+
+![Rev 1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b001771e3a682e6aa65ea9aae5d0bfb44fc7bf1f_image.png)
+
+(based on the BETAFPV ELRS Nano Receiver)
+
+**Total time spent: 5h**
+
+# June 24th: BOM changes + ELRS stuff
+
+Finished the ELRS PCB
+
+![Finished PCB render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/31f76bf30609b82da94a30f1b11eee1fd4b6a692_image.png)
+![Finished PCB schematic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/37c61e0b849e347befde5bc50019d4f6485ed723_image.png)
+
+Also changed the BOM:
+
+* Antenna: 2.46$ - [Omnidirectional Antenna Pair](https://pt.aliexpress.com/item/1005007126266614.html)
+
+**Total time spent: 4h**
