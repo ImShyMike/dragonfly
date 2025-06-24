@@ -1,6 +1,6 @@
 # dragonfly
 
-A tiny 3.5" FPV drone for [highway](https://highway.hackclub.com) with a fully custom frame.
+A tiny 3.5" FPV drone for [highway](https://highway.hackclub.com) with a fully custom frame, corners, softmounts and ELRS receiver.
 
 I've seen many FPV videos and always thought that it was really cool. Only issue is that I only own a small toy drone without a camera.
 
@@ -13,6 +13,8 @@ When highway released I thought it would be a great oportunity to learn what goe
 ![Model render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/de08dbe34117856184110152a7dfc07a122a285a_dragonfly_v35.png)
 
 <sub>The model with sample props, motors and camera (along with a 15cm ruler for scale).</sub>
+
+![Custom ELRS PCB render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/31f76bf30609b82da94a30f1b11eee1fd4b6a692_image.png)
 
 ---
 
