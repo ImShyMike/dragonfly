@@ -30,4 +30,6 @@ When highway released I thought it would be a great oportunity to learn what goe
 | Mini RHCP 5.8 GHz Lollipop Antenna (UFL) |  1  |        5.34 | [https://pt.aliexpress.com/item/4001365632031.html](https://pt.aliexpress.com/item/4001365632031.html)                                 |
 | **Total**                                |     |  **139.02** |                                                                                                                                        |
 
+The current price of the ELRS receiver is 69.60$ and using the cheapest shipping the total is at 215.91$.
+
 The BOM does not account for the frame and battery as I couldn't get that under 150$ D:
