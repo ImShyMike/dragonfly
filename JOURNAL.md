@@ -5,7 +5,7 @@ description: "Tiny 3.5" FPV drone with a fully custom frame"
 created_at: "2025-06-13"
 ---
 
-## Total time: 28h
+## Total time: 37h
 
 ---
 
