@@ -1,6 +1,6 @@
 # dragonfly
 
-A tiny 3.5" FPV drone for [highway](https://highway.hackclub.com) with a fully custom frame.
+A tiny 3.5" FPV drone for [highway](https://highway.hackclub.com) with a fully custom frame, corners, softmounts and ELRS receiver.
 
 I've seen many FPV videos and always thought that it was really cool. Only issue is that I only own a small toy drone without a camera.
 
@@ -14,6 +14,8 @@ When highway released I thought it would be a great oportunity to learn what goe
 
 <sub>The model with sample props, motors and camera (along with a 15cm ruler for scale).</sub>
 
+![Custom ELRS PCB render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/31f76bf30609b82da94a30f1b11eee1fd4b6a692_image.png)
+
 ---
 
 ## BOM
@@ -24,8 +26,12 @@ When highway released I thought it would be a great oportunity to learn what goe
 | 20 mm Aluminum Standoffs (pack)          |  1  |        1.86 | [https://pt.aliexpress.com/item/1005007945167923.html](https://pt.aliexpress.com/item/1005007945167923.html)                           |
 | HQProp 3525 Prop Set                     |  1  |        3.31 | [https://pt.aliexpress.com/item/1005008744409414.html](https://pt.aliexpress.com/item/1005008744409414.html)                           |
 | CADDX ANT Camera                         |  1  |       13.98 | [https://pt.aliexpress.com/item/1005006086694992.html](https://pt.aliexpress.com/item/1005006086694992.html)                           |
-| BETAFPV ELRS Nano Receiver               |  1  |       11.47 | [https://pt.aliexpress.com/item/1005007437882037.html](https://pt.aliexpress.com/item/1005007437882037.html)                           |
+| Omnidirectional Antenna Pair             |  1  |        2.46 | [https://pt.aliexpress.com/item/1005007126266614.html](https://pt.aliexpress.com/item/1005007126266614.html)                           |
 | YSIDO 1505 2650KV Brushless Motor Set    |  1  |       29.11 | [https://pt.aliexpress.com/item/1005007544080274.html](https://pt.aliexpress.com/item/1005007544080274.html)                           |
 | HGLRC Zeus Nano VTX                      |  1  |       22.96 | [https://pt.aliexpress.com/item/1005008043478143.html](https://pt.aliexpress.com/item/1005008043478143.html)                           |
 | Mini RHCP 5.8 GHz Lollipop Antenna (UFL) |  1  |        5.34 | [https://pt.aliexpress.com/item/4001365632031.html](https://pt.aliexpress.com/item/4001365632031.html)                                 |
-| **Total**                                |     |  **148.03** |                                                                                                                                        |
+| **Total**                                |     |  **139.02** |                                                                                                                                        |
+
+The current price of the ELRS receiver is 69.60$ and using the cheapest shipping the total is at 215.91$.
+
+The BOM does not account for the frame and battery as I couldn't get that under 150$ D:
